@@ -101,16 +101,7 @@ source /Users/johanna/.bazel/bin/bazel-complete.bash
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ll="ls -la"
-[ -f "${GHCUP_INSTALL_BASE_PREFIX:=$HOME}/.ghcup/env" ] && source "${GHCUP_INSTALL_BASE_PREFIX:=$HOME}/.ghcup/env"
-# alias python="/usr/bin/python3"
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
-export PAXOS_HOME="${HOME}/workspace/assurance/audit-paxos/src"
-. /usr/local/opt/asdf/asdf.sh
-export PATH="/usr/local/opt/ruby/bin:$HOME/.cargo/bin:$HOME/Library/Python/3.7/bin:$HOME/go/bin:$HOME/bin:/usr/local/opt/openjdk/bin:$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
-export PATH="$PAXOS_HOME/tools/bin:$PATH"
+export PATH="/usr/local/opt/ruby/bin:$HOME/.cargo/bin:$HOME/go/bin:$HOME/bin:/usr/local/opt/openjdk/bin:$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"

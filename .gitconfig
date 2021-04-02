@@ -1,0 +1,11 @@
+[user]
+	name = Johanna Ratliff
+	email = jmarg.smith@gmail.com
+[alias]
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[url "git@github.com:"]
+    insteadOf = https://github.com/
+[url "git@github.com:/trailofbits/go-security-checks"]
+	insteadOf = https://github.com/trailofbits/go-security-checks
+[url "git@code.8labs.io:"]
+    insteadOf = https://code.8labs.io/

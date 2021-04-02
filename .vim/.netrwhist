@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/johanna/workspace/assurance/audit-guidance/scripts/google-docs/make-report/make_report.egg-info'
+let g:netrw_dirhist_7='/Users/johanna/go/src/github.com/helm/helm/mysql/templates'
+let g:netrw_dirhist_6='/Users/johanna/go/src/github.com/helm/helm/mysql'
+let g:netrw_dirhist_5='/Users/johanna/workspace/not-going-anywhere/cmd/friends_server_net'
+let g:netrw_dirhist_4='/Users/johanna/workspace/not-going-anywhere/cmd/type_assertion'
+let g:netrw_dirhist_3='/Users/johanna/go/src/github.com/cloudfoundry/routing-release/src/code.cloudfoundry.org/tlsconfig'
+let g:netrw_dirhist_2='/Users/johanna/go/src/github.com/cloudfoundry/routing-release/src/code.cloudfoundry.org/tlsconfig/certtest'
+let g:netrw_dirhist_1='/Users/johanna/go/src/github.com/cloudfoundry/routing-release/src/code.cloudfoundry.org/tlsconfig'
